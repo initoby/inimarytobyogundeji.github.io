@@ -9,7 +9,7 @@ My work focuses on data science strategies along with hypothesis-driven experime
 
 ## Site Content
 On this page, you’ll find:  
-- 📄 My [CV](./)  
+- 📄 My CV  
 - 🔗 Links to my [LinkedIn](https://www.linkedin.com/in/inimary-toby-ogundeji-phd-1430818?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [GitHub](https://github.com/initoby)  
 - 🧪 Current projects, publications, and areas of collaboration interest  Lab Research Page: (https://bit.ly/ARDS-Genomics-Research-Group)
 
