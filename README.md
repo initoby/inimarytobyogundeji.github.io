@@ -1,5 +1,5 @@
 # inimarytobyogundeji.github.io
-Dr Inimary Toby-Ogundeji– Computational Biologist | Data Scientist | Researcher. Portfolio, CV, and professional links.”
+Dr Inimary Toby-Ogundeji– Computational Biologist | Data Scientist | Researcher. Portfolio, CV, and professional links.
 Welcome to my professional webpage! 🌐  
 This GitHub Pages site serves as my online business card and portfolio.  
 
