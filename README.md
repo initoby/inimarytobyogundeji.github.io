@@ -1,11 +1,11 @@
 # inimarytobyogundeji.github.io
-Dr Inimary Toby-Ogundeji– Computational Biologist | Data Scientist | Researcher. Portfolio, CV, and professional links.
+Dr Inimary Toby-Ogundeji– AI Researcher | Computational Biologist | Data Scientist | Researcher. Portfolio, CV, and professional links.
 Welcome to my professional webpage! 🌐  
 This GitHub Pages site serves as my online business card and portfolio.  
 
 ## About Me
-I am a Computational Biologist/Bioinformatician | Data Scientist | Researcher with expertise in machine learning, pattern discovery, molecular modeling, data encoding, support vector machines, and natural language processing (NLP)  
-My work focuses on data science strategies along with hypothesis-driven experiments to elucidate disease pathogenesis.  
+I am an AI Researcher, Computational Biologist/Bioinformatician and Data Scientist with expertise in machine learning, pattern discovery, molecular modeling, data encoding, support vector machines, and natural language processing (NLP)  
+My work focuses on implementing computer models and data analysis/visualization methods along with hypothesis-driven experiments to elucidate disease pathogenesis.  
 
 ## Site Content
 On this page, you’ll find:  
